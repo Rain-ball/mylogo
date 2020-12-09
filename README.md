@@ -8,5 +8,3 @@ Example:
 >>> rt
 >>> rt 90
 </pre>
-<hr>
-<em>P.S. You will need to have Python installed to run it.</em>
