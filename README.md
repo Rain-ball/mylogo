@@ -9,4 +9,4 @@ Example:
 >>> rt 90
 </pre>
 <hr>
-<em>P.S. The source code is also given.</em>
+<em>P.S. You will need to have Python installed to run it.</em>
