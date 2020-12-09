@@ -9,4 +9,4 @@ Example:
 >>> rt 90
 </pre>
 <hr>
-*P.S. The source code is also given.*
+<em>P.S. The source code is also given.</em>
