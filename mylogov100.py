@@ -20,10 +20,10 @@ while z != "exit":
 	elif z == "circle":
 		x = float(input(">>> circle "))
 		turtle.circle(x)
-	elif z == "penup":
-		turtle.penUp()
-	elif z == "pendown":
-		turtle.pendown()
+	#elif z == "penup":
+		#turtle.penUp()
+	#elif z == "pendown":
+		#turtle.pendown()
 	elif z == "dot":
 		turtle.dot()
 	elif z == "shapeturtle":
